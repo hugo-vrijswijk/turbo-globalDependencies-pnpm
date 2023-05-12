@@ -3,7 +3,7 @@
   "globalDependencies": ["myfile.json"],
   "pipeline": {
     "echo": {
-      "inputs": ["**/*.json"]
+      "inputs": ["package.json"]
     }
   }
 }
